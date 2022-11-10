@@ -29,7 +29,7 @@
   "author": "Anuj Datar <anuj.datar@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^11.5.0",
+    "electron": "^18.3.7",
     "electron-builder": "^20.44.4",
     "rimraf": "^2.6.3"
   },
